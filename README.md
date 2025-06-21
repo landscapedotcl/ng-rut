@@ -1,7 +1,7 @@
 Angular RUT
 =============
 
-Fork de https://github.com/platanus/ng2-rut para funcionar bajo Angular 9 debido a librerías deprecadas.
+Fork de https://github.com/platanus/ng2-rut para funcionar bajo Angular 9+ debido a librerías deprecadas.
 
 Angular library with several components to handle [Chilean RUT](https://en.wikipedia.org/wiki/National_identification_number#Chile) validation, cleaning and formatting.
 
