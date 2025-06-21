@@ -1,9 +1,9 @@
-Angular 9 RUT
+Angular RUT
 =============
 
 Fork de https://github.com/platanus/ng2-rut para funcionar bajo Angular 9 debido a librerías deprecadas.
 
-Angular 9 library with several components to handle [Chilean RUT](https://en.wikipedia.org/wiki/National_identification_number#Chile) validation, cleaning and formatting.
+Angular library with several components to handle [Chilean RUT](https://en.wikipedia.org/wiki/National_identification_number#Chile) validation, cleaning and formatting.
 
 ## Installation
 
@@ -100,6 +100,3 @@ export class DemoAppComponent {
 Esta lib fue actualizada en base al proyecto de los chicos de platanus.
 https://github.com/platanus/ng2-rut
 
-## License
-
-Angular 2 RUT is © 2016 Platanus, spa. It is free software and may be redistributed under the terms specified in the LICENSE file.
